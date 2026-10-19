@@ -2,3 +2,4 @@ pyrogram==2.0.106
 telethon==1.36.0
 pygithub==2.4.0
 requests==2.32.3
+cipheron
